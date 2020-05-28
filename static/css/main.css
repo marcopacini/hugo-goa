@@ -82,6 +82,10 @@ div.content
 
     color: #777;
 }
+div.content a
+{
+   text-decoration: underline;
+}
 .copyright
 {
     font-family: 'Roboto', sans-serif;
