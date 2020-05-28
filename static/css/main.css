@@ -17,7 +17,7 @@ a:link
 {
     text-decoration: none;
 
-    color: #526d7a;
+    color: #777;
 }
 body
 {
@@ -85,8 +85,9 @@ div.content
 .copyright
 {
     font-family: 'Roboto', sans-serif;
-    font-size: 12px;
+    font-size: 13px;
     font-weight: 200;
+    color: #777 !important;
 }
 .description
 {
@@ -188,12 +189,12 @@ h3.intro
 .menu-item
 {
     font-family: 'Lato', sans-serif;
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 300;
 
     text-decoration: none;
 
-    color: #966 !important;
+    color: #777 !important;
 }
 .meta
 {
@@ -214,9 +215,6 @@ h6.meta
     font-weight: 200;
 
     color: #8b8b8b;
-}
-section.meta {
-    margin-top:
 }
 .powered
 {
