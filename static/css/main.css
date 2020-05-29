@@ -148,7 +148,7 @@ div.content a
 .info
 {
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .intro
 {
@@ -186,11 +186,17 @@ h3.intro
 .main-menu
 {
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
+    max-height: 160px;
+}
+.main-menu h4
+{
+    height: 28px;
 }
 .main-menu a:hover
 {
-    color: #444 !important;
+    font-size: 26px;
+    color: #333 !important;
 }
 .menu
 {
